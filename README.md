@@ -1,7 +1,7 @@
 # Python-Projects-For-Beginners
 Python Projects for Beginners
 
-These are great projects for begginer level Python students. 
+These are great projects for beginner level Python students. 
 I will update periodically throughout my career in order to assit any student after me.
 
 Requirements:
